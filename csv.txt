@@ -1,0 +1,2 @@
+prima,seconda,terza,quarta
+prim,sec,ter,quar
